@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
     <flexiPageRegions>
         <itemInstances>
@@ -496,12 +496,6 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>brokerCard</componentName>
-                <identifier>c_brokerCard2</identifier>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
                 <componentName>daysOnMarket</componentName>
                 <identifier>daysOnMarket</identifier>
                 <visibilityRule>
@@ -524,6 +518,12 @@
                         <rightValue>0</rightValue>
                     </criteria>
                 </visibilityRule>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>brokerCard</componentName>
+                <identifier>c_brokerCard2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
